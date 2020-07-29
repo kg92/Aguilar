@@ -1,0 +1,381 @@
+@media (max-width: 1300px){
+
+  .paginaPrincipal{
+    color:white;
+    width:100%;
+  }
+
+  .ParrafoSuperios{
+  font-size: 15px;
+  width: 40%;
+  }
+
+  .buscador{
+  margin-left: 50px;
+  padding: 0;
+  }
+
+  .obsiones p{
+  text-align: left;
+  font-size: 20px;
+  margin: 50px;
+  width: 20%;
+  }
+
+  .informacion1{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion1 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+  }
+
+  .informacion1 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 20px;
+}
+
+
+  .informacion2{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion2 img{
+  width: 30%; height: 100%;
+  margin-right: 30px;
+  }
+
+  .informacion2 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 20px;
+  }
+
+  .informacion3{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion3 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+  }
+
+  .informacion3 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 20px;
+  }
+
+
+  .final{
+    padding: 30px;
+    margin: 0;
+  }
+
+  .final img{
+    margin-left:100px;
+    padding-top:15px;
+  }
+
+  .final p {
+  text-align: justify;
+  font-size: 20px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+}
+
+
+
+
+
+
+
+@media (max-width: 900px){
+
+  .paginaPrincipal{
+    color:white;
+    width:100%;
+  }
+
+  .ParrafoSuperios{
+  font-size: 10px;
+  width: 40%;
+  }
+
+  .buscador{
+  margin-left: 50px;
+  padding: 0;
+  }
+
+  .obsiones p{
+  text-align: left;
+  font-size: 15px;
+  margin: 50px;
+  width: 30%;
+  }
+
+  .informacion1{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion1 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+  }
+
+  .informacion1 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 15px;
+  }
+
+
+  .informacion2{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion2 img{
+  width: 30%; height: 100%;
+  margin-right: 30px;
+  }
+
+  .informacion2 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 15px;
+  }
+
+  .informacion3{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion3 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+  }
+
+  .informacion3 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 15px;
+  }
+
+
+  .final{
+    padding: 30px;
+    margin: 0;
+  }
+
+  .final img{
+    margin-left:100px;
+    padding-top:15px;
+  }
+
+  .final p {
+  text-align: justify;
+  font-size: 15px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+}
+
+
+
+
+
+@media (max-width: 600px){
+  .paginaPrincipal{
+    color:white;
+    width:100%;
+  }
+
+  .ParrafoSuperios{
+  font-size: 10px;
+  width: 40%;
+  }
+
+  .buscador{
+  margin-left: 50px;
+  padding: 0;
+  }
+
+  .obsiones p{
+  text-align: left;
+  font-size: 14px;
+  margin: 50px;
+  width: 40%;
+  }
+
+  .informacion1{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion1 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+  }
+
+  .informacion1 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 10px;
+  }
+
+
+  .informacion2{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion2 img{
+  width: 30%; height: 100%;
+  margin-right: 30px;
+  }
+
+  .informacion2 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 10px;
+  }
+
+  .informacion3{
+  padding: 0;
+  margin: 0;
+  }
+
+  .informacion3 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+  }
+
+  .informacion3 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 10px;
+  }
+
+
+  .final{
+    padding: 30px;
+    margin: 0;
+  }
+
+  .final img{
+    margin-left:100px;
+    padding-top:15px;
+  }
+
+  .final p {
+  text-align: justify;
+  font-size: 10px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+}
+
+
+
+@media (max-width: 400px){
+  .paginaPrincipal{
+    color:white;
+    width:100%;
+  }
+
+.ParrafoSuperios{
+  font-size: 10px;
+  width: 80%;
+}
+
+.buscador{
+  margin-left: 50px;
+  padding: 0;
+}
+
+.obsiones p{
+  text-align: left;
+  font-size: 15px;
+  margin: 50px;
+  width: 30%;
+}
+
+.informacion1{
+  padding: 0;
+  margin: 0;
+}
+
+.informacion1 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+}
+
+.informacion1 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 7px;
+}
+
+
+.informacion2{
+  padding: 0;
+  margin: 0;
+}
+
+.informacion2 img{
+  width: 30%; height: 100%;
+  margin-right: 30px;
+}
+
+.informacion2 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 7px;
+}
+
+.informacion3{
+  padding: 0;
+  margin: 0;
+}
+
+.informacion3 img{
+  width: 30%; height: 100%;
+  margin-left: 30px;
+}
+
+.informacion3 p{
+  padding-right: 20px;
+  padding-left:30px;
+  font-size: 7px;
+}
+
+
+  .final{
+    padding: 30px;
+    margin: 0;
+  }
+
+  .final img{
+    margin-left:100px;
+    padding-top:15px;
+  }
+
+.final p {
+  text-align: justify;
+  font-size: 7px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+}
